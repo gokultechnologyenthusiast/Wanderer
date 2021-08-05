@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "453694015458",
+    "project_id": "wanderer-ea39d",
+    "storage_bucket": "wanderer-ea39d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453694015458:android:de7f32926c6afa280e5bbb",
+        "android_client_info": {
+          "package_name": "com.gokul.wanderer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453694015458-4sbi6qnaj96l7mjudh1effpklld0l5el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gokul.wanderer",
+            "certificate_hash": "e149751d6ca01cc9bbd3ba91e0537c46baa8dbd5"
+          }
+        },
+        {
+          "client_id": "453694015458-brhd4hf6mfek5fc6oop6r92vcb9fpirq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqvjwbOzIGyYITOiJ9y8empDlVZ0cnW88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453694015458-brhd4hf6mfek5fc6oop6r92vcb9fpirq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453694015458-nltm3uh6u567mkkr7026ns2j8c9jd6n0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gokul.wanderer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
