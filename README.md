@@ -53,5 +53,7 @@ instead a extra icon is given in list on click will open wiki link in mobile bro
 
 social login via facebook and google is added sign in process will be those.
 
+firebase auth is used to handle both facebook and google login's. 
+
 logout also added to the menu drawer.
 
