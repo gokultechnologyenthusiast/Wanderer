@@ -2,6 +2,22 @@
 
 An application to swipe and store places to your bucket list.
 
+## task given
+
+1. Create a Tinder like carousel to swipe left and right random places using the
+API
+2. Every card in the app, has the details of the place with place-image and icons
+for map (pin-icon), and favorite (heart-icon)
+3. On left-swipe, details of the next place are fetched from the API. If the API
+response list is over, hit the API again
+4. On right-swipe, details of the place are bookmarked and stored
+5. If you click on pin-icon, the place should open in GoogleMaps
+6. If you click on heart-icon, the place should get stored in the favorites list
+7. The favorite places list and detailed view should be available in the offline
+mode
+8. Extra points if you implement SocialLogins (Google | Facebook | Instagram |
+Twitter)
+
 ## Getting Started
 
 First thing I did is setup my app code structure and added the core reusable components.
