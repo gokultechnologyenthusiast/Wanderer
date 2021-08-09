@@ -4,6 +4,7 @@ An application to swipe and store places to your bucket list.
 
 ## task given
 
+It took me 3 day's to complete this task.
 1. Create a Tinder like carousel to swipe left and right random places using the
 API
 2. Every card in the app, has the details of the place with place-image and icons
